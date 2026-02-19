@@ -70,7 +70,7 @@ export default function Home() {
             type="text"
             value={name}
             onChange={e => setName(e.target.value)}
-            placeholder="اكتب اسمك... مثلا احمد العنتيل او عمور القمور"
+            placeholder="اكتب اسمك... مثلا عمور القمور"
             maxLength={30}
             autoFocus
             className="w-full px-4 py-3.5 rounded-2xl text-center text-lg font-bold focus:outline-none transition-all"
