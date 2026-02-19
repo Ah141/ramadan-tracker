@@ -60,7 +60,7 @@ export default function Home() {
         {/* شعار */}
         <div className="text-center mb-8 fade-up">
           <div className="text-6xl mb-3">💋</div>
-          <h1 className="text-3xl font-black" style={{ color: 'var(--gold)' }}>تحدى السكن</h1>
+          <h1 className="text-3xl font-black" style={{ color: 'var(--gold)' }}> فانتازى رمضان 🏆</h1>
           <p className="text-sm mt-1" style={{ color: 'var(--muted)' }}>رمضان ده غير يا اخواتى</p>
         </div>
 
